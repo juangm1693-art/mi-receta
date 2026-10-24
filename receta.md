@@ -8,7 +8,7 @@ sal
 
 tiempo de preparacion
 
-de 29 a 15 munitos
+de 15 a 29 munitos
 
 pasos de preparacion 
 
