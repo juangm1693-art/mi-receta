@@ -13,3 +13,5 @@ de 15 a 29 munitos
 pasos de preparacion 
 
 en aceite bien caliente
+
+consejo: cuidado con  la manos
