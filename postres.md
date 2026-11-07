@@ -12,3 +12,5 @@ chocolate blanco
 chocolate negro
 chocolate con leche
 chocolate con avellana
+
+tiempo de preparacion: 30 minutos
